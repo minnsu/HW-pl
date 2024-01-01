@@ -1,0 +1,18 @@
+def f = 3 endef def g x y = x + y endef let x = f() in g(1, x);
+def f x = x + z endef let y = 3 in let z = 4 in f(z - y);
+x + 1;
+def x = x + 1 endef x();
+def x x y = x + 1 endef y();
+def x x y = x + 1 endef x();
+
+def x x y = x + 1 endef x(1);
+def x = 5 + 9 endef x();
+def x x = x + 1 endef x(3);
+def x x y = x + y endef x(3, 4);
+def x x y = x - y endef x(10, 5);
+def x x y = x + y endef def x2 x y = x - y endef x(3, 4);
+5 + 18 + 30;
+50 + 18 - 3;
+1 + 2 + -3;
+let x = 5 in 3 + x;
+let x = 5 in 3 + z;
