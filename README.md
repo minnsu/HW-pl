@@ -1,15 +1,15 @@
-# SKKU Programming Language
+# 2023-Fall 성균관대학교 프로그래밍언어
 
 ## PA1-antlr
-- java/antlr를 사용하여 계산기 만들기
+- implements calculater using java/antlr
 
 ## PA1-ocaml
-- ocaml 연습문제 해결하기
+- Solve Ocaml PL problem
 
 ## PA2
-- ocaml을 사용하여 F1VAE AST 구현하기
+- implements F1VAE AST using OCaml
 - evaluation
 
 ## PA3
-- java/antlr를 사용하여 F1VAE 인터프리터 구현하기
-- AST 구축 및 evaluation
+- implements F1VAE interpreter using java/antlr
+- AST build & evaluation
